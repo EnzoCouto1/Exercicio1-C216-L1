@@ -1,0 +1,78 @@
+Opção 1 - Cadastrar aluno
+Opção 2 - Listar aluno  
+Opção 3 - Atualiza aluno
+Opção 4 - Remover aluno 
+Opção 5 - Sair
+Digite uma opção: 1     
+Digite o nome do aluno: Enzo
+Digite o E-mail do aluno: Enzo#Inatel.br
+Digite o curso do aluno (GEC, GES, GEA, GEP, GEE): GEC
+Aluno Enzo cadastrado com sucesso!
+
+Opção 1 - Cadastrar aluno
+Opção 2 - Listar aluno
+Opção 3 - Atualiza aluno
+Opção 4 - Remover aluno
+Opção 5 - Sair
+Digite uma opção: 1
+Digite o nome do aluno: Vitor
+Digite o E-mail do aluno: Vitor#Inatel.br
+Digite o curso do aluno (GEC, GES, GEA, GEP, GEE): GEC
+Aluno Vitor cadastrado com sucesso!
+
+Opção 1 - Cadastrar aluno
+Opção 2 - Listar aluno
+Opção 3 - Atualiza aluno
+Opção 4 - Remover aluno
+Opção 5 - Sair
+Digite uma opção: 1   
+Digite o nome do aluno: Igor
+Digite o E-mail do aluno: Igor#Inatel.br
+Digite o curso do aluno (GEC, GES, GEA, GEP, GEE): GES
+Aluno Igor cadastrado com sucesso!
+
+Opção 1 - Cadastrar aluno
+Opção 2 - Listar aluno
+Opção 3 - Atualiza aluno
+Opção 4 - Remover aluno
+Opção 5 - Sair
+Digite uma opção: 2
+Matrícula: GEC1, Nome: Enzo, Email: Enzo#Inatel.br, Curso: GEC
+Matrícula: GEC2, Nome: Vitor, Email: Vitor#Inatel.br, Curso: GEC
+Matrícula: GES1, Nome: Igor, Email: Igor#Inatel.br, Curso: GES
+
+Opção 1 - Cadastrar aluno
+Opção 2 - Listar aluno
+Opção 3 - Atualiza aluno
+Opção 4 - Remover aluno
+Opção 5 - Sair
+Digite uma opção: 3
+Digite o nome do aluno para atualizar os dados: Vitor
+Digite o novo email: Vitinho#Inatel.br
+Digite o novo curso: GES
+
+Opção 1 - Cadastrar aluno
+Opção 2 - Listar aluno
+Opção 3 - Atualiza aluno
+Opção 4 - Remover aluno
+Opção 5 - Sair
+Digite uma opção: 4
+Digite o nome do aluno a ser removido: Igor
+Aluno removido com sucesso
+
+Opção 1 - Cadastrar aluno
+Opção 2 - Listar aluno
+Opção 3 - Atualiza aluno
+Opção 4 - Remover aluno
+Opção 5 - Sair
+Digite uma opção: 2
+Matrícula: GEC1, Nome: Enzo, Email: Enzo#Inatel.br, Curso: GEC
+Matrícula: GEC2, Nome: Vitor, Email: Vitinho#Inatel.br, Curso: GES
+
+Opção 1 - Cadastrar aluno
+Opção 2 - Listar aluno
+Opção 3 - Atualiza aluno
+Opção 4 - Remover aluno
+Opção 5 - Sair
+Digite uma opção: 5
+Saindo...
